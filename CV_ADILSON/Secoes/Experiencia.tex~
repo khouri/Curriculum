@@ -1,0 +1,22 @@
+\moderncvstyle{casual} 
+\moderncvcolor{black}
+\usepackage[lmargin=1cm,tmargin=2cm,bmargin=3cm,rmargin=1cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\usepackage{gensymb}
+
+%----------------------------------------------------------------------------------------
+%	CABECALHO E RODAPE
+%----------------------------------------------------------------------------------------
+\firstname{Adilson} 
+\familyname{Khouri} 
+\title{Curriculum Vitae}
+\address{R. Isabel de Goes, número 08, BL 09 ap 81}{São Paulo, SP}
+\mobile{(11) 9-9545-0929}
+\phone{(11) 2264-2973}
+\email{adilson.khouri.usp@gmail.com}
+\extrainfo{Bacharel em Sistemas de Informação-USP}
+
+%Adicionar foto
+%\photo[70pt][0.4pt]{pictures/picture} % The first bracket is the picture height, the second is the thickness of the frame around the picture (0pt for no frame)
+%\quote{"A witty and playful quotation" - John Smith}
